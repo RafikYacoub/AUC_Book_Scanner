@@ -40,7 +40,12 @@ query_image_number = 1
 ![isbn3](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/a41d6c44-2f59-4191-83a1-f7740c038ef6)
 
 # Barcode detection:
+![barcode1](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/22c6f99d-dfef-4594-b717-86069a2a75b1)
+![barcode3](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/faa86758-bddd-4c99-bc95-c40af3d56d91)
+
 # Cover Page detection:
+![cover1](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/8fd22dd9-addc-421d-86f5-8c68bc92ff1e)
+
 
 # Discussion
 One of the downsides of the app is the inaccuracy of edge detection, which might produce incorrect results for the cover page detection.
