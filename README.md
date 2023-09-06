@@ -35,6 +35,10 @@ query_image_number = 1
 
 # Results
 # ISBN detection:
+![isbn1](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/d32c5b63-6929-4415-829f-266a44fec65a)
+![isbn2](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/45b87a4c-acaa-46ae-b020-30b62eca0120)
+![isbn3](https://github.com/RafikYacoub/AUC_Book_Scanner/assets/70937749/a41d6c44-2f59-4191-83a1-f7740c038ef6)
+
 # Barcode detection:
 # Cover Page detection:
 
